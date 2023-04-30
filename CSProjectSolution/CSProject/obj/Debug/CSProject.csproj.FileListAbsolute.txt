@@ -1,0 +1,8 @@
+D:\R54\M2\Projects\2\CSProjectSolution\CSProject\bin\Debug\CSProject.exe.config
+D:\R54\M2\Projects\2\CSProjectSolution\CSProject\bin\Debug\CSProject.exe
+D:\R54\M2\Projects\2\CSProjectSolution\CSProject\bin\Debug\CSProject.pdb
+D:\R54\M2\Projects\2\CSProjectSolution\CSProject\obj\Debug\CSProject.csproj.AssemblyReference.cache
+D:\R54\M2\Projects\2\CSProjectSolution\CSProject\obj\Debug\CSProject.csproj.SuggestedBindingRedirects.cache
+D:\R54\M2\Projects\2\CSProjectSolution\CSProject\obj\Debug\CSProject.csproj.CoreCompileInputs.cache
+D:\R54\M2\Projects\2\CSProjectSolution\CSProject\obj\Debug\CSProject.exe
+D:\R54\M2\Projects\2\CSProjectSolution\CSProject\obj\Debug\CSProject.pdb
